@@ -21,4 +21,4 @@ g++ Dispersion.cpp -fopenmp -o Dispersion.out
 - Enter each node description as number_of_robots Robot_IDs
 
 ### Example  
-![screenshot](https://github.com/madhavsankar/Mobile_Robots/Run.png)
+![screenshot](https://github.com/madhavsankar/Mobile_Robots/blob/master/Run.png)
