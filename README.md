@@ -10,7 +10,7 @@ g++ Dispersion.cpp -fopenmp -o Dispersion.out
 - C++
 - OpenMP
 
-### Please read Algorithm 1 in (https://arxiv.org/abs/1707.06391) to understand the implementation of this Distributed Algorithm.
+#### Please read Algorithm 1 in (https://arxiv.org/abs/1707.06391) to understand the implementation of this Distributed Algorithm.
 
 ## Run 
 ```
